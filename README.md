@@ -179,6 +179,9 @@ streamlit run streamlitApp.py
 Here's a step-by-step process on how to use the [Streamlit App](https://huggingface.co/spaces/Kennymaur/CAPSTONE_CHURN_PREDICTION_PROJECT) on Huggingface:
 
 
+<p align="center">
+  <img src="image\Interface1.PNG" alt="Bivariate" width="600">
+</p>
 
 ## Contribution
 You contribution, critism etc are welcome. We are willing to colaborate with any data analyst/scientist to improve this project. Thank your 
