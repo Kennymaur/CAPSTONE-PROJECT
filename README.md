@@ -1,6 +1,6 @@
 #  CAPSTONEPROJECT_ExpressorCustomerChurnAnalysis
 <p align="center">
-  <img src="images/welcome.jpg" alt="ExpressorLogo" width="800">
+  <img src="image\welcome.jpg" alt="ExpressorLogo" width="800">
 </p>
 
 ## Project Overview
@@ -11,7 +11,7 @@ Customer attrition is one of the biggest expenditures of any organization. Custo
 
 
 <p align="center">
-  <img src="images/logo.jpg" alt="ExpressorLogo" width="800">
+  <img src="image\logo.jpg" alt="ExpressorLogo" width="800">
 </p>
 
 
@@ -109,19 +109,19 @@ During the exploratory data analysis (EDA) phase, a comprehensive investigation 
 - **Univariate analysis:** A thorough examination of each variable individually was performed. Summary statistics such as mean, median, standard deviation, and quartiles were calculated to understand the central tendency and spread of the data.
 
 <p align="center">
-  <img src="images/Univariate.png" alt="Univariate" width="600">
+  <img src="image\Univariate.png" alt="Univariate" width="600">
 </p>
 
 - **Bivariate analysis:** Relationships between pairs of variables were explored to identify patterns and potential predictor variables for sepsis classification.
 
 <p align="center">
-  <img src="images/Bivariate.png" alt="Bivariate" width="600">
+  <img src="image\Bivariate.png" alt="Bivariate" width="600">
 </p>
 
 - **Multivariate analysis:** Relationships among multiple variables were examined simultaneously, allowing for a deeper understanding of their interactions and impact on sepsis.
 
 <p align="center">
-  <img src="images/multivariate.png" alt="multivariate" width="600">
+  <img src="image\multivariate.png" alt="multivariate" width="600">
 </p>
 
 ### Hypotheses:
@@ -190,4 +190,4 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 `Data Analyst`
 `Azubi Africa`
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)(https://www.linkedin.com/in/kehinde-afolabi-a14572b1)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/kehinde-afolabi-a14572b1)
