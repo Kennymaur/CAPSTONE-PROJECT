@@ -41,7 +41,7 @@ This solution will help this telecom company to better serve their customers by 
 ## Summary
 | Code | Name                                                | Summary of the work                                                                                          |                                                                                              Streamlit App    |                                                                                                |
 |------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT](https://www.canva.com/design/DAFsXnEpF0Q/SInfoc-gtCJ5Wxc-QYaudg/edit?utm_content=DAFsXnEpF0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |  [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App)      |
+| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT](https://www.canva.com/design/DAFsXnEpF0Q/SInfoc-gtCJ5Wxc-QYaudg/edit?utm_content=DAFsXnEpF0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |  [Streamlit App](https://huggingface.co/spaces/Kennymaur/CAPSTONE_CHURN_PREDICTION_PROJECT)      |
 
 
 
@@ -54,7 +54,7 @@ To set up the project environment, follow these steps:
 git clone my_github 
 
 ```bash 
-https://github.com/FranAcheampong/Capstone_Churn_Prediction.git
+https://github.com/Kennymaur/CAPSTONE-PROJECT.git
 ```
 
 2. Install the required dependencies:
